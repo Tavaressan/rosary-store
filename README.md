@@ -1,4 +1,4 @@
-# Projeto 1º Semestre — Desenvolvimento de Software Multiplataforma
+# Rosary Store - Projeto 1º Semestre — Desenvolvimento de Software Multiplataforma
 
 Bem-vindo(a) ao repositório do projeto desenvolvido durante o primeiro semestre do curso de **Desenvolvimento de Software Multiplataforma**.
 
